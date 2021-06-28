@@ -1,0 +1,21 @@
+@font-face {
+    font-family: "Montserrat-Regular";  
+    src: url("../fonts/Montserrat-Regular.ttf") format("truetype"); 
+    font-style: normal; 
+    font-weight: normal;
+}
+
+@font-face {
+    font-family: "CormorantUnicase-Light";  
+    src: url("../fonts/CormorantUnicase-Light.ttf") format("truetype"); 
+    font-style: normal; 
+    font-weight: normal;
+}
+
+@font-face {
+    font-family: "CormorantUnicase-Regular";  
+    src: url("../fonts/CormorantUnicase-Regular.ttf") format("truetype"); 
+    font-style: normal; 
+    font-weight: normal;
+}
+
